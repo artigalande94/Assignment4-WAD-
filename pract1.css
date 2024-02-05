@@ -1,0 +1,30 @@
+body{
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+
+.container{
+ color: rgb(26, 24, 24);
+ margin-top: 50px;
+ width: 5px;
+ 
+}
+
+button{
+    color: #ffffff;
+    background-color: #7b38d8;
+    border: 4px double;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+
+button:hover{
+    /* color: rgb(216, 21, 21); */
+    background-color: black;
+   
+    
+}
